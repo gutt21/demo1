@@ -1,0 +1,112 @@
+2022-07-25 11:49:57,555 [main] INFO organgerm - successfully login
+2022-07-25 11:49:57,591 [main] INFO organgerm - dashbord verify
+2022-07-25 11:59:58,971 [main] INFO organgerm - successfully login
+2022-07-25 11:59:59,007 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:17:02,877 [main] INFO organgerm - successfully login
+2022-07-25 12:17:02,911 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:18:59,737 [main] INFO organgerm - successfully login
+2022-07-25 12:18:59,774 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:19:48,901 [main] INFO organgerm - successfully login
+2022-07-25 12:19:48,936 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:20:28,877 [main] INFO organgerm - successfully login
+2022-07-25 12:20:28,912 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:24:54,601 [main] INFO organgerm - successfully login
+2022-07-25 12:24:54,637 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:25:00,444 [main] INFO organgerm - successfully login
+2022-07-25 12:25:43,452 [main] INFO organgerm - successfully login
+2022-07-25 12:25:43,486 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:26:55,339 [main] INFO organgerm - successfully login
+2022-07-25 12:26:55,374 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:27:01,225 [main] INFO organgerm - successfully login
+2022-07-25 12:30:41,306 [main] INFO organgerm - successfully login
+2022-07-25 12:30:41,343 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:30:48,228 [main] INFO organgerm - successfully login
+2022-07-25 12:31:00,727 [main] INFO organgerm - successfully login
+2022-07-25 12:31:00,758 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 12:31:06,313 [main] INFO organgerm - successfully login
+2022-07-25 12:31:18,940 [main] INFO organgerm - successfully login
+2022-07-25 12:31:18,968 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 14:47:16,498 [main] INFO organgerm - successfully login
+2022-07-25 14:47:16,546 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 14:47:22,867 [main] INFO organgerm - successfully login
+2022-07-25 14:48:29,386 [main] INFO organgerm - successfully login
+2022-07-25 14:48:29,426 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 14:49:29,499 [main] INFO organgerm - successfully login
+2022-07-25 14:49:29,539 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 14:51:05,244 [main] INFO organgerm - successfully login
+2022-07-25 14:51:05,292 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 14:52:43,649 [main] INFO organgerm - successfully login
+2022-07-25 14:52:43,704 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 15:02:15,723 [main] INFO organgerm - successfully login
+2022-07-25 15:02:15,780 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 15:04:11,047 [main] INFO organgerm - successfully login
+2022-07-25 15:12:35,139 [TestNG-PoolService-4] INFO organgerm - successfully login
+2022-07-25 15:13:23,057 [TestNG-PoolService-2] INFO organgerm - successfully login
+2022-07-25 15:15:29,376 [TestNG-test=Test-1] INFO organgerm - successfully login
+2022-07-25 15:15:29,424 [TestNG-test=Test-1] INFO organgerm - dashbord verify successfull
+2022-07-25 15:15:35,675 [TestNG-test=Test-1] INFO organgerm - successfully login
+2022-07-25 15:15:47,974 [TestNG-test=Test-1] INFO organgerm - successfully login
+2022-07-25 15:15:48,007 [TestNG-test=Test-1] INFO organgerm - dashbord verify successfull
+2022-07-25 15:15:54,295 [TestNG-test=Test-1] INFO organgerm - successfully login
+2022-07-25 15:16:06,540 [TestNG-test=Test-1] INFO organgerm - successfully login
+2022-07-25 15:16:06,572 [TestNG-test=Test-1] INFO organgerm - dashbord verify successfull
+2022-07-25 15:52:04,542 [main] INFO organgerm - successfully login
+2022-07-25 15:52:04,542 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 15:52:57,300 [main] INFO organgerm - successfully login
+2022-07-25 15:52:57,302 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 15:54:43,969 [main] INFO organgerm - successfully login
+2022-07-25 15:54:43,971 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:00:27,568 [main] INFO organgerm - successfully login
+2022-07-25 16:00:27,571 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:02:29,709 [main] INFO organgerm - verify my info
+2022-07-25 16:09:15,903 [main] INFO organgerm - verify my info
+2022-07-25 16:10:16,292 [main] INFO organgerm - successfully login
+2022-07-25 16:10:16,295 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:11:46,571 [main] INFO organgerm - successfully login
+2022-07-25 16:11:46,574 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:17:12,882 [main] INFO organgerm - successfully login
+2022-07-25 16:17:12,884 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:20:00,734 [main] INFO organgerm - successfully login
+2022-07-25 16:20:00,738 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:21:38,440 [main] INFO organgerm - successfully login
+2022-07-25 16:21:38,443 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:22:35,106 [main] INFO organgerm - successfully login
+2022-07-25 16:22:35,110 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:22:50,369 [main] INFO organgerm - verify my info
+2022-07-25 16:24:09,718 [main] INFO organgerm - verify my info
+2022-07-25 16:27:47,688 [main] INFO organgerm - successfully login
+2022-07-25 16:27:47,692 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:29:19,151 [main] INFO organgerm - successfully login
+2022-07-25 16:29:19,155 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:30:02,851 [main] INFO organgerm - successfully login
+2022-07-25 16:30:02,854 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:30:41,867 [main] INFO organgerm - successfully login
+2022-07-25 16:30:41,870 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:32:37,254 [main] INFO organgerm - successfully login
+2022-07-25 16:32:37,258 [main] INFO organgerm - dashbord verify successfull
+2022-07-25 16:39:41,832 [main] INFO organgerm - verify my info
+2022-07-26 10:50:31,599 [main] INFO organgerm - verify my info
+2022-07-28 12:47:59,103 [main] INFO organgerm - successfully login
+2022-07-28 12:47:59,107 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 12:48:17,080 [main] INFO organgerm - verify my info
+2022-07-28 12:50:01,898 [main] INFO organgerm - successfully login
+2022-07-28 12:50:01,908 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 12:50:20,175 [main] INFO organgerm - verify my info
+2022-07-28 12:54:09,557 [main] INFO organgerm - successfully login
+2022-07-28 12:54:09,561 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 12:54:28,286 [main] INFO organgerm - verify my info
+2022-07-28 13:39:37,335 [main] INFO organgerm - successfully login
+2022-07-28 13:39:37,335 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 13:39:59,280 [main] INFO organgerm - verify my info
+2022-07-28 14:17:55,760 [main] INFO organgerm - successfully login
+2022-07-28 14:17:55,768 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 14:18:17,169 [main] INFO organgerm - verify my info
+2022-07-28 14:33:13,352 [main] INFO organgerm - successfully login
+2022-07-28 14:33:13,360 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 14:33:36,064 [main] INFO organgerm - verify my info
+2022-07-28 14:36:17,603 [main] INFO organgerm - successfully login
+2022-07-28 14:36:17,611 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 14:36:40,956 [main] INFO organgerm - verify my info
+2022-07-28 14:43:08,752 [main] INFO organgerm - successfully login
+2022-07-28 14:43:08,760 [main] INFO organgerm - dashbord verify successfull
+2022-07-28 14:43:31,296 [main] INFO organgerm - verify my info
